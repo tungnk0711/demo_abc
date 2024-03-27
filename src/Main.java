@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         double[] myList = new double[10];
-        //myList[9] = 9.0;
+        myList[9] = 9.0;
         System.out.println(myList[9]);
     }
 }
